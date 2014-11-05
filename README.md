@@ -22,7 +22,7 @@ Or set the `BUILDPACK_URL` config var on an existing app:
 * * *
 
 If you want to be on the bleeding edge and use pre-release features, then use
-`git://github.com/CHH/heroku-buildpack-php#development` as buildpack
+`git://github.com/azr/heroku-buildpack-php#development` as buildpack
 url.
 
 ## Stack
